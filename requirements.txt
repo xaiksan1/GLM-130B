@@ -4,3 +4,4 @@ apex
 scipy
 dataclass_wizard
 cpm_kernels
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
